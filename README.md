@@ -1,7 +1,7 @@
 # CopyPaste
 Split 40% Bluetooth Keyboard
 
-![top-down image](Images/top-down.jpg)
+<img src="Images/top-down.jpg" width="750">
 
 ### Motivation
 I wanted a portable, light keyboard to bring to class, with stenography (chording) and bluetooth capabilities.
@@ -17,4 +17,5 @@ I wanted a portable, light keyboard to bring to class, with stenography (chordin
   - mounting holes for acrylic screen protector
 - pads for ws2812b leds (not recommended because of battery drain)
 
-![layout-plan image](Images/layout-plan.png)
+
+<img src="Images/layout-plan.png" width="500">
